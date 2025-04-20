@@ -34,7 +34,7 @@ This repository is a maintained fork of [@hitehschaudhary](https://github.com/hi
 ### Deployment Example (PostgreSQL)
 ```bash
 # Clone the repository
-git clone https://github.com/DeepeshSuryawanshi/docker-database.git
+git clone https://github.com/DeepeshSuryawanshi/Docker-Database.git
 cd docker-database
 
 # Deploy PostgreSQL with compose
